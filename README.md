@@ -1,5 +1,5 @@
 # Shell-c
-Bash shell with c
+Bash shell with c\n
 It is a simple program in c.
 Implements the following command execution procedures.
   Simple commands ls,pwd
