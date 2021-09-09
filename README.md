@@ -7,4 +7,4 @@ Implements the following command execution procedures.
   Commands with exit input redirect 
   Commands with a pipeline ls -l | wc -l > out.txt.
   
-You can terminate the main loop with <exit>.
+You can terminate the main loop with exit.
