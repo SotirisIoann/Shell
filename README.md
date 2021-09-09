@@ -16,3 +16,11 @@ Implements the following command execution procedures.
   
 You can terminate the main loop with exit.
 
+To execute the main program compile it with the follow command
+```
+  gcc -o s shell.c
+``` 
+And execute it with
+```
+  ./s
+```
