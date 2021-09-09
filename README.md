@@ -1,7 +1,7 @@
 # Shell-c
-# Bash shell with c.
+# Unix shell with c.
 
-It is a simple program in c.
+It is a simple program in c.Implemented in linux and in the environment Vc Code.
 
 Implements the following command execution procedures.
 ```
